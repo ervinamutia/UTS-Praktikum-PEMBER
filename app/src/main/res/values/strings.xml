@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">UTS Praktikum Pember</string>
+
+    <string-array name="nama">
+        <item>Patrick</item>
+        <item>Snowball</item>
+        <item>Pascal</item>
+        <item>Mushu</item>
+        <item>Grumpy</item>
+        <item>Edna Mode</item>
+        <item>Simba</item>
+        <item>Hey Hey</item>
+        <item>Bruni</item>
+        <item>Abu</item>
+        <item>Sid</item>
+        <item>Melman</item>
+        <item>Lumiere</item>
+        <item>Garfield</item>
+        <item>Poo</item>
+        <item>Forky</item>
+        <item>BayMax</item>
+        <item>Flash</item>
+        <item>Theodore</item>
+        <item>SboobyDoo</item>
+    </string-array>
+    <string-array name="keterangan">
+        <item>The Fat Star Fish</item>
+        <item>The Anti-Hero Bunny</item>
+        <item>Just a Chameleon</item>
+        <item>The Tiny Chinese Dragon</item>
+        <item>Madness Dwarfs</item>
+        <item>Just a Regular Girl</item>
+        <item>The Lion King</item>
+        <item>A Dump Chicken</item>
+        <item>The Salamander As a Fire Spirit</item>
+        <item>The Thief Monkey</item>
+        <item>The Dumbness on Ice Age</item>
+        <item>Idiot Giraffe</item>
+        <item>Candles Holder</item>
+        <item>Just a Silly Cat</item>
+        <item>The Dragon Worrior</item>
+        <item>DIY Toys</item>
+        <item>Pelukable Doctor</item>
+        <item>Not As Fast As His Name</item>
+        <item>Cute Chipmunk</item>
+        <item>Paranormal Dog(?)</item>
+    </string-array>
+    <string-array name="nim">
+        <item>210441100159</item>
+        <item>210441100027</item>
+        <item>210441100101</item>
+        <item>210441100014</item>
+        <item>210441100168</item>
+        <item>210441100116</item>
+        <item>210441100201</item>
+        <item>210441100013</item>
+        <item>210441100177</item>
+        <item>210441100205</item>
+        <item>210441100102</item>
+        <item>210441100011</item>
+        <item>210441100186</item>
+        <item>210441100394</item>
+        <item>210441100203</item>
+        <item>210441100017</item>
+        <item>210441100195</item>
+        <item>210441100483</item>
+        <item>210441100104</item>
+        <item>210441100018</item>
+    </string-array>
+
+    <integer-array name="gambarnya">
+        <item>@drawable/pic_1</item>
+        <item>@drawable/pic_2</item>
+        <item>@drawable/pic_3</item>
+        <item>@drawable/pic_4</item>
+        <item>@drawable/pic_5</item>
+        <item>@drawable/pic_6</item>
+        <item>@drawable/pic_7</item>
+        <item>@drawable/pic_8</item>
+        <item>@drawable/pic_9</item>
+        <item>@drawable/pic_10</item>
+        <item>@drawable/pic_11</item>
+        <item>@drawable/pic_12</item>
+        <item>@drawable/pic_13</item>
+        <item>@drawable/pic_14</item>
+        <item>@drawable/pic_15</item>
+        <item>@drawable/pic_16</item>
+        <item>@drawable/pic_17</item>
+        <item>@drawable/pic_18</item>
+        <item>@drawable/pic_19</item>
+        <item>@drawable/pic_20</item>
+    </integer-array>
+
+</resources>
